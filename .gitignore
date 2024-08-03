@@ -117,5 +117,3 @@ $RECYCLE.BIN/
 # SASS artifacts
 .sass-cache/
 
-# Ignoring server.js (as requested)
-server.js
